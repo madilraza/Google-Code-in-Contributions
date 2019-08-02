@@ -38,17 +38,17 @@ FOSSASIA
 - [Open Event Web App: Deploy open event webapp to Heroku](https://codein.withgoogle.com/archive/2016/t/5734082721873920/)
 - [loklak: Deploy your peer with one-click, collect social messages and tweet about it](https://codein.withgoogle.com/archive/2016/t/5100173063618560/)
 - [MBDyn: -FINAL- Give us style! -v3- Help choose the font for MBDyn's new logo. (FOSSASIA)](https://codein.withgoogle.com/archive/2016/t/5943497523724288/)
-- [Open Event: Create or improve event sample JSON files and zip file for former FOSSASIA Summits]
-- [Open Event Android: Setup the open event Android app generator on your local machine]
-- [loklak: Create a screencast video of how to set up loklak server in the cloud]
-- [Bioconductor / 'tofsims' package: Setup Development Environment and run demo workflow]
-- [FOSSASIA: Do a mini-project of our "labs" - Create an app, Solve a project request, Add a super feature, Improve design, Add test frameworks]()
-- [Susi AI/Blog I: Blog and suggest ideas to improve the SUSI Android App]
-- [loklak/Twitter: Set up loklak tweet search server with Docker on Cloud Server]
-- [Publiclab: Testing out Transifex for Translation]
-- [Blog A: Create a blog and write a blog entry about your interests and participation in the FOSSASIA community]
-- [Open Event Web App: Improve documentation]
-- [loklak apps: Fix Javascript and Apps site setup]
-- [Publiclab: Build a Paper Spectrometre using a CD and sturdy paper]
-- [Website: Add a FOSSASIA mentor photo and credentials in the mentor section of the FOSSASIA GCI Website]
-- [Git: Join FOSSASIA team, learn about collaboration on GitHub and start communicating in the community]
+- [Open Event: Create or improve event sample JSON files and zip file for former FOSSASIA Summits](https://codein.withgoogle.com/archive/2016/t/5665150107385856/)
+- [Open Event Android: Setup the open event Android app generator on your local machine](https://codein.withgoogle.com/archive/2016/t/4895778254356480/)
+- [loklak: Create a screencast video of how to set up loklak server in the cloud](https://codein.withgoogle.com/archive/2016/t/5763333999296512/)
+- [Bioconductor / 'tofsims' package: Setup Development Environment and run demo workflow](https://codein.withgoogle.com/archive/2016/t/6306332487450624/)
+- [FOSSASIA: Do a mini-project of our "labs" - Create an app, Solve a project request, Add a super feature, Improve design, Add test frameworks](https://codein.withgoogle.com/archive/2016/t/5692963376070656/)
+- [Susi AI/Blog I: Blog and suggest ideas to improve the SUSI Android App](https://codein.withgoogle.com/archive/2016/t/6212307231178752/)
+- [loklak/Twitter: Set up loklak tweet search server with Docker on Cloud Server](https://codein.withgoogle.com/archive/2016/t/5183470196228096/)
+- [Publiclab: Testing out Transifex for Translation](https://codein.withgoogle.com/archive/2016/t/6204603938897920/)
+- [Blog A: Create a blog and write a blog entry about your interests and participation in the FOSSASIA community](https://codein.withgoogle.com/archive/2016/t/5712422430048256/)
+- [Open Event Web App: Improve documentation](https://codein.withgoogle.com/archive/2016/t/5630005597962240/)
+- [loklak apps: Fix Javascript and Apps site setup](https://codein.withgoogle.com/archive/2016/t/6236463005958144/)
+- [Publiclab: Build a Paper Spectrometre using a CD and sturdy paper](https://codein.withgoogle.com/archive/2016/t/5160128498106368/)
+- [Website: Add a FOSSASIA mentor photo and credentials in the mentor section of the FOSSASIA GCI Website](https://codein.withgoogle.com/archive/2016/t/5744195625025536/)
+- [Git: Join FOSSASIA team, learn about collaboration on GitHub and start communicating in the community](https://codein.withgoogle.com/archive/2016/t/6234480368943104/)
