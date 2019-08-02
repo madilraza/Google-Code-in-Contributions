@@ -3,5 +3,4 @@
 </p>
 
 
-## Google-Code-in-Contibutions
-List of all the contributions i made to GCI 2016-17 for fossasia
+- List of all the contributions i made to GCI 2016-17 for fossasia
