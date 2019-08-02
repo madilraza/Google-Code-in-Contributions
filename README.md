@@ -3,5 +3,5 @@
 </p>
 
 
-__List of all the contributions i made to GCI 2016-17 for fossasia__
+List of all the contributions i made to GCI 2016-17 for fossasia
 ------
