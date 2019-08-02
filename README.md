@@ -20,24 +20,24 @@ FOSSASIA
 - [Git: Learn how to create a fork of FOSSASIA repositories](https://codein.withgoogle.com/archive/2016/t/4941803901943808/)
 - [Open Event Android: Improve localization support](https://codein.withgoogle.com/archive/2016/t/5988408539217920/)
 - [Open Event Orga Server: Add and test events in eventyay](https://codein.withgoogle.com/archive/2016/t/6256564017037312/)
-- [Blog: Write an article about your participation in GCI with a picture and introduction of yourself]
-- [Open Event Orga Server: Learn about Weblate internationalization for Open Event]
-- [MBDyn: -NEW- Give us style! -v2- Refine the student logos for MBDyn. (FOSSASIA)]
-- [Twitter/loklak apps: Improve the apps site]
-- [Open Event Web App: Setup the open event Web app generator on your local machine]
-- [Join the FOSSASIA channels and become a community member]
-- [Website: Add your photo to the GCI FOSSASIA Site Student Section and Tweet about it]
-- [loklak/AWS: Set up loklak tweet search server with Docker on AWS Cloud Server]
-- [Open Event Web App: Add secret keys to your deployed Open Event Web App on heroku]
-- [loklak/Google Cloud: Set up loklak tweet search server on Google Cloud Server]
-- [Twitter/loklak apps: Fix an app, solve an issue, or add a feature]
-- [Open Event Android: Fix typos, grammatical issues or missing instructions in documentation]
-- [loklak search: Deploy the website of loklak search on your own GitHub account]
-- [Website: Identify and Fix Issues on our PSLab site on Github Pages]
-- [loklak search: Improve documentation]
-- [Open Event Web App: Deploy open event webapp to Heroku]
-- [loklak: Deploy your peer with one-click, collect social messages and tweet about it]
-- [MBDyn: -FINAL- Give us style! -v3- Help choose the font for MBDyn's new logo. (FOSSASIA)]
+- [Blog: Write an article about your participation in GCI with a picture and introduction of yourself](https://codein.withgoogle.com/archive/2016/t/5316380884729856/)
+- [Open Event Orga Server: Learn about Weblate internationalization for Open Event](https://codein.withgoogle.com/archive/2016/t/5353268244905984/)
+- [MBDyn: -NEW- Give us style! -v2- Refine the student logos for MBDyn. (FOSSASIA)](https://codein.withgoogle.com/archive/2016/t/5760211514032128/)
+- [Twitter/loklak apps: Improve the apps site](https://codein.withgoogle.com/archive/2016/t/5987578408861696/)
+- [Open Event Web App: Setup the open event Web app generator on your local machine](https://codein.withgoogle.com/archive/2016/t/5116069811322880/)
+- [Join the FOSSASIA channels and become a community member](https://codein.withgoogle.com/archive/2016/t/6243743002787840/)
+- [Website: Add your photo to the GCI FOSSASIA Site Student Section and Tweet about it](https://codein.withgoogle.com/archive/2016/t/5741070096793600/)
+- [loklak/AWS: Set up loklak tweet search server with Docker on AWS Cloud Server](https://codein.withgoogle.com/archive/2016/t/5672711799963648/)
+- [Open Event Web App: Add secret keys to your deployed Open Event Web App on heroku](https://codein.withgoogle.com/archive/2016/t/5198113216135168/)
+- [loklak/Google Cloud: Set up loklak tweet search server on Google Cloud Server](https://codein.withgoogle.com/archive/2016/t/5088620138463232/)
+- [Twitter/loklak apps: Fix an app, solve an issue, or add a feature](https://codein.withgoogle.com/archive/2016/t/5101929057222656/)
+- [Open Event Android: Fix typos, grammatical issues or missing instructions in documentation](https://codein.withgoogle.com/archive/2016/t/6277006450753536/)
+- [loklak search: Deploy the website of loklak search on your own GitHub account](https://codein.withgoogle.com/archive/2016/t/5167360579207168/)
+- [Website: Identify and Fix Issues on our PSLab site on Github Pages](https://codein.withgoogle.com/archive/2016/t/5447909225005056/)
+- [loklak search: Improve documentation](https://codein.withgoogle.com/archive/2016/t/5747664924704768/)
+- [Open Event Web App: Deploy open event webapp to Heroku](https://codein.withgoogle.com/archive/2016/t/5734082721873920/)
+- [loklak: Deploy your peer with one-click, collect social messages and tweet about it](https://codein.withgoogle.com/archive/2016/t/5100173063618560/)
+- [MBDyn: -FINAL- Give us style! -v3- Help choose the font for MBDyn's new logo. (FOSSASIA)](https://codein.withgoogle.com/archive/2016/t/5943497523724288/)
 - [Open Event: Create or improve event sample JSON files and zip file for former FOSSASIA Summits]
 - [Open Event Android: Setup the open event Android app generator on your local machine]
 - [loklak: Create a screencast video of how to set up loklak server in the cloud]
